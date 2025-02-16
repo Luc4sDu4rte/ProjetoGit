@@ -1,0 +1,3 @@
+Configurando git
+
+Notebook Lucas
